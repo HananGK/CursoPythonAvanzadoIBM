@@ -4,7 +4,7 @@ from mysql.connector import Error
 class Conexion:
     DATABASE = "inventarioProductos"
     USERNAME = "root"
-    PASSWORD = "Suigintou.89"
+    PASSWORD = "***********"
     DB_PORT = "3306"
     HOST = "localhost"
     POOL_SIZE = 5
